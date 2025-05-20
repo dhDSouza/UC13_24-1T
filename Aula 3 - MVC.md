@@ -221,6 +221,6 @@ Remove o usuário **1** da lista.
 
 ✅ **Aprendemos o que é MVC** e como organizar um projeto Express.  
 ✅ **Criamos um CRUD de usuários** seguindo a estrutura **Model-Controller-Routes**.  
-✅ **Testamos a API** usando ferramentas como Postman.  
+✅ **Testamos a API** usando ferramentas como Thunder Client.  
 
 Próxima aula, vamos aprofundar as **rotas e middlewares** para melhorar a nossa API! 🚀
