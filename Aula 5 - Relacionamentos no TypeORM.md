@@ -106,16 +106,16 @@ Crie o arquivo `tsconfig.json`:
 ```json
 {
   "compilerOptions": {
-    "target": "ES6",
+    "target": "es2024",
     "module": "CommonJS",
-    "outDir": "dist",
-    "rootDir": "src",
+    "outDir": "./dist",
+    "rootDir": "./src",
     "strict": true,
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
   },
-    "include": ["src/models/*.ts"],
+    "include": ["src/**/*.ts"],
     "exclude": ["node_modules"]
 }
 ```
